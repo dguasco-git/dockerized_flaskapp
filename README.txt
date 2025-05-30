@@ -21,4 +21,10 @@ git remote add origin git@github.com:dguasco-git/dockerized_flaskapp.git
 # Verifying that connection went good
 git remote -v
 
+# First Commit
+git add .
+git commit -m "First commit"
+
+# Git Push
+git push -u origin master
 
