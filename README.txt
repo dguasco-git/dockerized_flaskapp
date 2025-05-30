@@ -26,5 +26,5 @@ git add .
 git commit -m "First commit"
 
 # Git Push
-git push -u origin master
+git push -u origin main
 
